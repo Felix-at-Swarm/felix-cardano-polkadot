@@ -12,10 +12,10 @@ I'm Felix, fulltime Cardano and Cardano Ambassador since 2021. Focus on all thin
 Doing technosophy, also bringing people & ideas together and do some good stuff.
 
 Hanging around and contributing at:
-[SWARM](https://x.com/CatalystSwarm)
-[Unifires](https://x.com/uni_fires)
-[Mesh](https://meshjs.dev/)
-[SIDAN Lab](https://www.sidan.io/)
-[Gimbalabs](https://gimbalabs.com/gimbalgrid)
-[Cardano Ambassadors program](https://cardano.org/ambassadors/)
-[Project Catalyst](https://projectcatalyst.io/) Community Agent
+- [SWARM](https://x.com/CatalystSwarm)
+- [Unifires](https://x.com/uni_fires)
+- [Mesh](https://meshjs.dev/)
+- [SIDAN Lab](https://www.sidan.io/)
+- [Gimbalabs](https://gimbalabs.com/gimbalgrid)
+- [Cardano Ambassadors program](https://cardano.org/ambassadors/)
+- [Project Catalyst](https://projectcatalyst.io/) Community Agent
